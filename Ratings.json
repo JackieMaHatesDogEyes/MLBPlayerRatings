@@ -1,5 +1,16 @@
 {
-	"Yusei Kikuchi" : [0, 0, 78],
-	"Alejandro Kirk" :  [68, 82, 5],
-	"Bo Bichette" : [82, 96, 0],
+	"Yusei Kikuchi" : [0, 0, 78, 60, 10],
+	"Alejandro Kirk" :  [68, 82, 5, 88, 8],
+	"Bo Bichette" : [82, 96, 0, 80, 82],
+	"Shohei Ohtani" : [88, 98, 92, 90, 98],
+	"Mike Trout" : [91, 87, 0, 97, 76],
+	"Aaron Judge" : [90, 97, 0, 93, 66],
+	"Mookie Betts" : [87, 86, 0, 94, 87],
+	"Yu Darvish" : [30, 5, 89, 88, 10],
+	"Ha-Seong Kim" : [70, 65, 0, 88, 76],
+	"Nolan Arenado" : [80, 74, 0, 98, 65],
+	"Tommy Edman" : [78, 70, 0, 90, 80],
+	"Lars Nootbar" : [74, 78, 0, 82, 77],
+	"Masataka Yoshida" : [88, 78, 0, 85, 75],
+	"Seiya Suzuki" : [87, 84, 0, 86, 78]
 }
